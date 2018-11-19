@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/h397wang/submoduletest
+[submodule "ResistanceId"]
+	path = ResistanceId
+	url = https://github.com/h397wang/ResistanceId
